@@ -4,7 +4,7 @@ Description: predd begin,cleaning ...
 
 Template: my_script/progress/dd
 Type: text
-Description: wget dd,please wait: ${STATUS}
+Description: 0% bukan stuck itu, aman..tungguin aja..mending ngopy :D
 
 Template: my_script/progress/postdd
 Type: text
